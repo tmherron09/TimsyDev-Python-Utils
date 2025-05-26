@@ -18,8 +18,15 @@ classifiers = [
     "Operating System :: OS Independent"
 ]
 
+dependencies = [
+    "pandas==2.2.3",
+    "pyodbc==5.2.0",
+    "python-dateutil==2.9.0.post0",
+    "SQLAlchemy==2.0.41"
+]
+
 [tool.setuptools]
-package-dir = {"" = "src"}
+package-dir = { "" = "src" }
 
 [tool.setuptools.packages.find]
 where = ["src"]

@@ -1,0 +1,4 @@
+python-dateutil~=2.9.0.post0
+pyodbc~=5.2.0
+pandas~=2.2.3
+SQLAlchemy~=2.0.41

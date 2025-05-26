@@ -160,3 +160,5 @@ Contributions are welcome! Please open issues or submit pull requests.
 
 MIT License
 
+### Note -e git+https://github.com/tmherron09/TimsyDev-Python-Utils.git@273707c5764721dfe713888d392a6ae9517c5a97#egg=timsy_utils
+### pip install git+https://github.com/tmherron09/TimsyDev-Python-Utils.git
